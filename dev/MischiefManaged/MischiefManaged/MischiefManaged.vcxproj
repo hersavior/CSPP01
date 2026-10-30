@@ -139,11 +139,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GenreMode.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Track.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GenreMode.h" />
+    <ClInclude Include="Track.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
