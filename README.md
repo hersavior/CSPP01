@@ -2,6 +2,7 @@
 # Project & Portfolio 1
 
 ### Katherine Hershkowitz nee Santiago De Jesus
+### Katherine Hershkowitz
 
 Hello my name is [Kat]. I am a student from [Puerto Rico & NY]. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
 

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9135269e-2690-408c-8adb-d0ba1ae01cfd}</ProjectGuid>
+    <ProjectGuid>{6D1BD5E2-A585-FFC3-8374-39F08106C525}</ProjectGuid>
     <RootNamespace>MischiefManaged</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -150,6 +150,7 @@
     <ClInclude Include="MainMenu.h" />
     <ClInclude Include="MusicLibrary.h" />
     <ClInclude Include="Track.h" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
