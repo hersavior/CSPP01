@@ -2,10 +2,19 @@
 //
 
 #include <iostream>
+#include "MainMenu.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    //Computah please Display the Main Menu
+    
+    MainMenu menu;
+
+    menu.displayMenu();
+
+    return 0;
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

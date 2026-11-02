@@ -6,10 +6,11 @@ class Track
 // Member variables
 	string fileName;
 	string filePath;
-	string versionType;
+	string VersionType;
 	string Title;
 	string Format;
 	string Genre;
+
 
 public:
 // A constructor
@@ -19,12 +20,13 @@ public:
 	string getTitle();
 	string getFormat();
 	string getGenre();
+	string getVersionType();
 
 
-	// And Setters that change the info so they use a void return
-	void setTitle(string Title);
-	void setFormat(string Format);
-	void setGenre(string Genre);
-
+	// And Setters can change the info so they use a void return
+	void setTitle(string newTitle);
+	void setFormat(string newFormat);
+	void setGenre(string newGenre);
+	void setVersionType(string newVersionType);
 };
 
