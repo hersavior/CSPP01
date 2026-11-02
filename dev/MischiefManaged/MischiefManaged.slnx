@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MischiefManaged/MischiefManaged.vcxproj" />
+  <Project Path="MischiefManaged/MischiefManaged.vcxproj" Id="9135269e-2690-408c-8adb-d0ba1ae01cfd" />
 </Solution>
