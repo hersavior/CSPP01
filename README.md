@@ -1,27 +1,7 @@
-# 🚀 Welcome to Project & Portfolio!
-
-This repository will be used to keep track of research and development conducted in this class. Follow the instructions below to get started.
-cos
-### Getting Started
-
-**1.** Review the [About](./docs/01_about/README.md) README and all of the links it provides.
-
-**2.** Review the documentation and [Getting Started](./docs/02_getting_started/README.md) steps in this repository's docs folder.
-
-**3.** Attend the first Live Lecture to see a live setup demo. If you are unable to attend, make sure to watch the archive.
-
-### Next Steps...
-
-After completing the above steps, feel free to begin updating this readme where indicated below. Remember to update this document each week to receive proper credit for the weekly Milestone assignment.
-
-<br>
-
-> ❗️ &nbsp; Now that you have read to this point, go ahead and delete this sentence and everything above it.
-
-<br>
 
 # Project & Portfolio 1
 
+### Katherine Hershkowitz nee Santiago De Jesus
 ### Katherine Hershkowitz
 
 Hello my name is [Kat]. I am a student from [Puerto Rico & NY]. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
@@ -44,7 +24,7 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ### Week 1
 
-Replace this paragraph with your stand up for this week. Use the prompts above to summarize your most recent milestone activity and work.
+This past week I worked on completing the Track Class component of my music management software which is a huge part of my project. I got stuck for a while using a constructor and getters/setters. I forgot a huge chunk of OOP. I did actually realize that setters aren't always necessary and there are other options after getting or retrieving info. It's actually interesting to think how that's going to reflect upon how I choose to code in the future. After seeing everyone's posts I realize I need to prioritize a menu for my software. I can't really test much out to the console until I have something Printed to the console.
 
 ### Week 2
 
